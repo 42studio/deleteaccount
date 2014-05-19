@@ -1,6 +1,7 @@
-#DeleteAccount#
-[deleteaccount.ru](http://deleteaccount.ru/) - сайт, который собирает ссылки для простого удаления из соц. сетей.
+DeleteAccount
+=============
 ---------------------------------------
+[deleteaccount.ru](http://deleteaccount.ru/) - сайт, который собирает ссылки для простого удаления из соц. сетей.
 
 Формат csv файла:
  
