@@ -21,7 +21,7 @@ id;pagetitle;alias;delete_link;descript;tv.fbapp;hard;image;privacy_link;unsubsc
 269;Scriptogr.am;scriptogr-am;http://scriptogr.am/dashboard/#settings;;;easy;images/empty.jpg;;
 270;Shopify;shopify;http://shopify.com/admin/settings/account;;;easy;images/empty.jpg;;
 271;Shutterfly;shutterfly;http://www.shutterfly.com/about/contact_details.jsp;;;hard;images/empty.jpg;;
-272;Simple Machines;simple-machines;"http://www.simplemachines.org/community/index.php?action=profilearea=deleteaccount";;;hard;images/empty.jpg;;
+272;Simple Machines;simple-machines;http://www.simplemachines.org/community/index.php?action=profilearea=deleteaccount;;;hard;images/empty.jpg;;
 273;Slashdot;slashdot;http://slashdot.org/faq/accounts.shtml;;;impossible;images/empty.jpg;;
 274;Slideshare;slideshare;http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-;;;easy;images/empty.jpg;;
 275;SourceForge;sourceforge;https://sourceforge.net/account/remove;;;medium;images/empty.jpg;;
@@ -282,7 +282,7 @@ id;pagetitle;alias;delete_link;descript;tv.fbapp;hard;image;privacy_link;unsubsc
 28;Wunderlist;wunderlist;https://www.wunderlist.com/#/preferences/account;Wunderlist – бесплатный кроссплатформенный менеджер/планировщик задач;;easy;images/empty.jpg;;
 29;WordPress.com;wordpress-com;http://en.support.wordpress.com/deleting-accounts/;WordPress — система управления содержимым сайта с открытым исходным кодом, распространяемая под GNU GPL. Написана на PHP, в качестве базы данных использует MySQL.;;impossible;images/empty.jpg;;
 30;Xing;xing;https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185;XING — бизнес-ориентированная социальная сеть для поиска и администрации деловых и личных контактов;;easy;images/empty.jpg;;
-31;Yahoo!;yahoo;https://edit.yahoo.com/config/delete_user;"Yahoo! — американская компания, владеющая второй по популярности в мире поисковой системой и предоставляющая ряд сервисов, объединённых интернет-порталом Yahoo! Directory портал включает в себя популярный сервис электронной почты Yahoo!";;easy;images/empty.jpg;;
+31;Yahoo!;yahoo;https://edit.yahoo.com/config/delete_user;Yahoo! — американская компания, владеющая второй по популярности в мире поисковой системой и предоставляющая ряд сервисов, объединённых интернет-порталом Yahoo! Directory портал включает в себя популярный сервис электронной почты Yahoo!;;easy;images/empty.jpg;;
 32;Xobni;xobni;https://www.xobni.com/account/settings;;;easy;images/empty.jpg;;
 33;Yatado;yatado;http://about.yatedo.com/manage-your-digital-id/;Сервис позволяющий получить информацию о человеке, которая доступна в сети;;medium;images/empty.jpg;;
 34;YouTube;youtube;https://support.google.com/youtube/answer/55759;YouTube — сервис, предоставляющий услуги видеохостинга. Пользователи могут добавлять, просматривать, комментировать и делиться с друзьями теми или иными видеозаписями.;;impossible;images/empty.jpg;;
