@@ -80,7 +80,7 @@ id;pagetitle;alias;delete_link;descript;tv.fbapp;hard;image;privacy_link;unsubsc
 229;Nike+;nike;https://secure-nikeplus.nike.com/plus/settings/;;;easy;images/empty.jpg;;
 230;Nitrous.IO;nitrous-io;https://www.nitrous.io/;;;impossible;images/empty.jpg;;
 231;NoIP;noip;http://www.noip.com/members/account/delete.php;;;easy;images/empty.jpg;;
-232;Odnoklassniki/Одноклассники;odnoklassniki;http://www.odnoklassniki.ru/regulations;Поиск одноклассников, бывших выпускников, сокурсников, сослуживцев, старых и новых друзей.;;easy;images/empty.jpg;;
+232;Одноклассники;odnoklassniki;http://www.odnoklassniki.ru/regulations;Поиск одноклассников, бывших выпускников, сокурсников, сослуживцев, старых и новых друзей.;;easy;images/empty.jpg;;
 233;OkCupid;okcupid;https://www.okcupid.com/settings;;;easy;images/empty.jpg;;
 234;OnlineTVRecorder.com;onlinetvrecorder-com;http://www.onlinetvrecorder.com/v2/index.php?go=account&do=cancel;;;impossible;images/empty.jpg;;
 235;OpenDNS;opendns;http://forums.opendns.com/comments.php?DiscussionID=8326;;;hard;images/empty.jpg;;
